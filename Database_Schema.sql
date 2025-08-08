@@ -7,9 +7,4 @@ create table Ecommerce_data(
 	UnitPrice decimal,
 	CustomerID	varchar(10),
 	Country varchar(25)
-)
-
-select distinct customerid from Ecommerce_data;
-
-delete from Ecommerce_data
-where customerid is null;
+);
