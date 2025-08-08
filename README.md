@@ -47,7 +47,7 @@ Some of the questions addressed in this analysis include:
 
 ## How to Use
 1. Import the dataset into your SQL environment (MySQL / PostgreSQL / SQL Server).  
-2. Run the SQL script file provided (`ecommerce_analysis.sql`).  
+2. Run the SQL script file provided (`Ecommerce_data.sql`).  
 3. View query results for each analysis section.  
 4. Modify queries as needed for deeper insights.
 
@@ -61,7 +61,7 @@ Some of the questions addressed in this analysis include:
 ---
 
 ## Files in Repository
-- `ecommerce_analysis.sql` – Contains all SQL queries for analysis.  
+- `Ecommerce_data.sql` – Contains all SQL queries for analysis.  
 - `dataset.csv` – Raw e-commerce transactions data (if allowed to share).  
 - `README.md` – Project documentation (this file).
 
